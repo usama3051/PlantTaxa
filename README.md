@@ -30,5 +30,4 @@ It helps users identify plants, detect diseases from images, get climate-adaptiv
 
 ---
 
-## 📁 Folder Structure
 
